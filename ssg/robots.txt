@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://github.io/teste//sitemap.xml
