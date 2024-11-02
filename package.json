@@ -1,5 +1,5 @@
 {
-  "name": "salespage-fst-2",
+  "name": "sales-page",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -9,6 +9,6 @@
   },
   "scripts": {
     "start": "npx nullstack start",
-    "build": "npx nullstack build --mode=ssg --output=docs"
+    "build": "npx nullstack build --mode=ssg"
   }
 }
