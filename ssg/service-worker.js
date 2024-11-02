@@ -5,11 +5,11 @@ self.context = {
     "development": false,
     "production": true,
     "mode": "ssg",
-    "key": "451850e10f872b9713f198e0bccdfaef7c935f14",
+    "key": "267e5d4e284d39f239d8a09bd09a29ab4fca6161",
     "name": ""
   },
   "project": {
-    "domain": "anapaulasuassuna.github.io/teste/",
+    "domain": "anapaulasuassuna.github.io/",
     "name": "teste",
     "color": "#D22365",
     "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",

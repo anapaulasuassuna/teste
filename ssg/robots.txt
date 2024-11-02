@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: /
-Sitemap: https://anapaulasuassuna.github.io/teste//sitemap.xml
+Sitemap: https://anapaulasuassuna.github.io//sitemap.xml
