@@ -5,11 +5,11 @@ self.context = {
     "development": false,
     "production": true,
     "mode": "ssg",
-    "key": "571de7b84b1d19d36695abade409d451ce28a608",
+    "key": "ec8feaee5b46f66b2a8f1ea4a8edfd2635326c6d",
     "name": ""
   },
   "project": {
-    "domain": "github.io/teste/",
+    "domain": "teste.github.io",
     "name": "[dev] Salespage",
     "color": "#D22365",
     "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
